@@ -1,0 +1,33 @@
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-115.jpg 51,130,351,556,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00052.jpg 124,38,306,221,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00053.jpg 277,157,470,438,0 653,157,809,565,0 124,268,274,446,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-21.jpg 59,2,216,171,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00086.jpg 333,189,927,466,0 41,291,392,489,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00045.jpg 210,148,307,395,0 302,180,444,422,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-30.jpg 78,25,182,177,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00096.jpg 407,147,783,476,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-104.jpg 189,41,340,249,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00056.jpg 222,3,345,256,0 1,118,259,250,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-200.jpg 107,10,249,166,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00024.jpg 248,260,516,428,0 91,69,270,370,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-57.jpg 82,6,638,423,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00147.jpg 149,105,818,544,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-198.jpg 57,21,158,184,1 112,32,199,158,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-93.jpg 66,29,233,190,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-78.jpg 28,15,221,216,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00169.jpg 258,56,381,267,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-168.jpg 98,88,374,303,1 173,1,471,309,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00162.jpg 180,206,375,434,0 262,199,375,302,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-151.jpg 42,94,108,224,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00175.jpg 230,66,534,449,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00028.jpg 140,95,673,467,0 55,69,286,352,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-64.jpg 1,1,247,194,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-134.jpg 125,87,194,169,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-121.jpg 55,34,416,377,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-137.jpg 71,8,304,233,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-14.jpg 163,81,546,438,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00065.jpg 82,38,244,434,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00075.jpg 34,82,412,244,0 254,44,294,79,0 62,27,152,76,0 1,38,59,76,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/raccoon-38.jpg 7,17,257,180,1
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00077.jpg 1,120,224,319,0
+/Users/shiauchen/Desktop/yolo3-tf2-main/VOCdevkit/VOC2007/JPEGImages/00117.jpg 401,65,621,557,0
